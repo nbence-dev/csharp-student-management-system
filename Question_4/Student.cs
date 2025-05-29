@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Question_4
 {
+    // Represents a student with a name and ID
     class Student
     {
         
