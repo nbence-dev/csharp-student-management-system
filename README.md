@@ -1,4 +1,4 @@
-# csharp-student-management-system-y2
+# csharp-student-management-system
 
 > A console-based **Student Management System** built with **C# and .NET 8** as part of Year 2 programming coursework.
 
