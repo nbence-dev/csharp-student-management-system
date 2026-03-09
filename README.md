@@ -147,31 +147,6 @@ CSharp-CPMS-Q4-Y2-2025/
 
 ---
 
-## 📎 GitHub About (Short Description)
-
-> Console-based Student Management System in C# (.NET 8) — add, remove, and display student records using a linked list with full input validation and exception handling. Year 2 coursework project.
-
----
-
-## 🔗 LinkedIn Summary
-
-> As part of my Year 2 programming coursework, I developed a **Student Management System** using **C# and .NET 8** — a console application that allows administrators to add, remove, and display student records. This project pushed me to apply core Object-Oriented Programming principles in a real-world-inspired scenario. I designed a Student model class, managed records using a `LinkedList<T>`, and implemented a full menu-driven interface with robust input validation and exception handling.
->
-> **Key takeaways:**
-> 🔷 Designing C# classes, constructors, and auto-implemented properties
-> 🔷 Implementing CRUD operations with linked-list-based data structures
-> 🔷 Writing clean code with `switch` statements and structured loops
-> 🔷 Handling edge cases with `try/catch` blocks and boundary validation
-> 🔷 Delivering a feature-complete CLI tool from requirements to working code
-
----
-
-## 🏷️ LinkedIn Skills
-
-`C#` · `.NET 8` · `Object-Oriented Programming (OOP)` · `Console Application Development` · `Data Structures` · `Linked Lists` · `LINQ` · `Exception Handling` · `Input Validation` · `Software Development` · `Problem Solving` · `Clean Code`
-
----
-
 ## 📄 License
 
 This project was created for educational purposes as part of a Year 2 programming module.
